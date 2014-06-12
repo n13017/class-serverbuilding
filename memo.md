@@ -6,7 +6,7 @@
 ## LAMP環境の構築
 
 ### Wordpress
-
+	*apache2,mysq-server,php5,インストール
 #### Wordpressチューニング
 
 ### EC-CUBE
